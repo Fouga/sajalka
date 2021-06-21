@@ -1,6 +1,6 @@
 # sajalka
 
-## How to start application in docker-compose env (P.S. for linux only)?
+## How to start application in docker-compose env? (for linux only)
 
 ```shell
 $ docker-compose up
